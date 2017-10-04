@@ -57,8 +57,8 @@ Clone 代码后，通过微信开发者工具添加项目。将您自己的 Clie
 title | string | 爱范儿
 address | string | 品牌街5号
 description | string | 爱范儿(证券代码 839758)是一家聚焦于微信及移动互联网生态的 综合服务商，拥有多个知名互联网品牌。爱范儿洞察科技及互联网趋势，关注新消费模式与时尚生活动向，在新媒体及微信生态服务领域深度布局，连接海量「趋势消费者」，提供从内容到营销到技术平台的一体化微信生态解决方案
-logo | string | https://media.ifanrusercontent.com/media/tit/atGxbqTGjzYkQOER.jpgd
-image | array | ["https://media.ifanrusercontent.com/media/tit/TyjAFWdpYzvklnEn.jpg" , "https://media.ifanrusercontent.com/media/tit/OnKDjKhqzlXDzoFu.jpg"]
+logo | string | https://media.ifanrusercontent.com/media/tit/atGxbqTGjzYkQOER.jpg
+image | array | ["https://media.ifanrusercontent.com/media/tit/TyjAFWdpYzvklnEn.jpg" , "https://media.ifanrusercontent.com/media/tit/OnKDjKhqzlXDzoFu.jpg" ]
 phone | string | 89054207
 latitude | number | 23.099532
 longitude | number | 113.323882
