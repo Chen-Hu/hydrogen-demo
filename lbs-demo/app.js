@@ -46,6 +46,6 @@ App({
         delta: currentPagesLen
       });
     }
-  },
+  }
 
 })
