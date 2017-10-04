@@ -3,7 +3,7 @@
 <scroll-view class="container"  scroll-y="true"
              style="height: 100%">
   <!-- 商户信息介绍部分 -->
-  <view class="intro">
+  <view class="intro" wx:if="{{ bannerUrl }}">
     <!-- banner图片 -->
     <swiper class="bannerPic" autoplay="true" interval="3000" indicator-dots="true">
       <swiper-item wx:for="{{ bannerUrl }}">
